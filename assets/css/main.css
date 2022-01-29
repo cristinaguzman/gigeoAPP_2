@@ -1,0 +1,84 @@
+@import 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css';
+.m-0 {
+  margin: 0;
+}
+
+.button {
+  border: none;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button_mensaje {
+  font-size: 12px;
+  background-color: #79DEE7;
+  color: #FFF;
+}
+
+.button_seguir {
+  font-size: 12px;
+  background-color: #FF565B;
+  color: #FFF;
+}
+
+.logo {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  color: #001614;
+}
+
+.logo_superindice {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  vertical-align: super;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.banners {
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url("../../assets/img/image-banner.png");
+}
+
+.box {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.foto {
+  width: 50px;
+  height: 50px;
+}
+
+.espacio-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+hr {
+  height: 1px;
+  background-color: #CCC;
+}
+
+.login {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.videospupulares {
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+
+/*# sourceMappingURL=main.css.map */
